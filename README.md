@@ -20,7 +20,7 @@
 name: Prajakta Musale
 role: Full Stack Web Developer
 location: Pune, Maharashtra, India
-experience: 1+ years
+experience: intern at mandet india and collin IT Solution 
 current_focus: ["React.js", "Advanced PHP", "Modern Web Technologies"]
 passion: "Transforming ideas into digital reality"
 motto: "Code with purpose, build with passion"
@@ -111,7 +111,7 @@ motto: "Code with purpose, build with passion"
 
 | 🎯 **Metric** | 📈 **Value** |
 |:---:|:---:|
-| **Years of Experience** | 1+ Years |
+| **Years of Experience** | 5 months  |
 | **Projects Completed** | 10+ Projects |
 | **Technologies Mastered** | 15+ Technologies |
 | **Performance Improvement** | 40% Faster Load Times |
@@ -137,7 +137,7 @@ motto: "Code with purpose, build with passion"
 
 **🎯 Primary Project**: ICB Portal Development
 - **Role**: Full-Stack Developer
-- **Team Size**: 4 developers
+- **Team Size**: 1 developers
 - **Tech Stack**: `PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `Git`
 
 **🏆 Key Achievements**:
@@ -162,11 +162,11 @@ motto: "Code with purpose, build with passion"
 <summary><b>🔍 Click to expand details</b></summary>
 
 **🎯 Focus**: Frontend Development & SEO Optimization
-- **Projects**: 5+ Client Websites
+- **Projects**: 2 Client Websites
 - **Tech Stack**: `HTML5` `CSS3` `JavaScript` `PHP` `Bootstrap` `SEO Tools`
 
 **🏆 Key Achievements**:
-- ✅ Developed 5+ responsive business websites with modern design principles
+- ✅ Developed 2 responsive business websites with modern design principles
 - ✅ Improved website loading speed by 40% through optimization techniques
 - ✅ Enhanced SEO rankings for 3 client websites to first page results
 - ✅ Implemented cross-browser compatibility for all projects
