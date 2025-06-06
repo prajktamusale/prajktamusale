@@ -1,15 +1,4 @@
-To update the provided code snippet for the **Weekly Coding Stats** section based on the information in Prajakta Musale's resume PDF, I'll incorporate relevant details from her experience, projects, and skills. The resume highlights her work as a web developer with a focus on HTML, CSS, JavaScript, PHP, and React.js, along with her ongoing learning in AI/ML and other technologies. I'll assume a realistic distribution of her coding time based on her roles at Mandet India (current) and Collin IT Solutions (previous), as well as her learning habits and project work. I'll also ensure the updated code aligns with the existing format and includes her most active day and peak coding time as mentioned.
 
-### Assumptions and Updates:
-- **Technologies**: Based on the resume, she heavily uses HTML, CSS, JavaScript, PHP, and React.js. She also mentions learning TypeScript, Laravel, and AI/ML technologies, so I'll include some time for learning.
-- **Time Distribution**: Her current role at Mandet India (Feb 2025 – Present) involves full-stack development (PHP, HTML, CSS, JavaScript), and her previous role at Collin IT Solutions (Jan 2024 – Mar 2024) included SEO and Bootstrap. I'll allocate time to reflect her focus on these technologies.
-- **Learning**: The resume mentions ongoing learning in React.js, Redux, TypeScript, and Laravel, so I'll include learning as a significant portion of her time.
-- **Debugging**: As a developer, debugging is part of her workflow, so I'll include a reasonable estimate.
-- **Most Active Day and Peak Coding Time**: The original code mentions Friday as the most active day and 10 PM – 12 AM as the peak coding time. The resume confirms she is a "night owl developer (10 PM – 2 AM)," so I'll extend the peak coding time to reflect this.
-- **Projects**: Her work on the ICB Portal and the Real-Time Mango Grading Application (using AR and ML) suggests some time spent on experimental technologies like Python (for ML).
-
-### Updated Weekly Coding Stats Code
-Below is the updated code snippet for the **Weekly Coding Stats** section, maintaining the original format and incorporating details from the resume:
 
 ```text
 💻 This Week I Spent My Time On:
@@ -644,13 +633,5 @@ Debugging     1 hr 10 mins    ██░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
-```
 
-### Notes:
-- **Consistency with Resume**: The updated stats reflect Prajakta’s technical skills (HTML, CSS, JavaScript, PHP, React.js) and her work on the mango grading project (Python for ML). The learning focus aligns with her resume’s mention of React.js, TypeScript, and Laravel.
-- **Formatting**: The code retains the original structure and styling, with only the **Weekly Coding Stats** section updated.
-- **Additional Updates**: I noticed a typo in the **Current Learning Path 2025** section (`thisdailyHabits` instead of `this.dailyHabits`). I corrected it in the provided code for accuracy.
-- **Further Customization**: If you want to update other sections (e.g., add the mango grading project to the **Featured Projects Portfolio** or include certifications like Salesforce Admin or MLOps from the resume), let me know, and I can modify those sections accordingly.
-- **Chart Request**: The resume and original code don’t explicitly request a chart, so I haven’t included one. If you’d like a Chart.js visualization (e.g., a bar chart of the weekly coding stats), please confirm, and I can generate one.
 
-If you have specific changes or additional sections to update based on the resume, or if you want me to focus on a different part of the code, please provide more details, and I’ll tailor the response further!
