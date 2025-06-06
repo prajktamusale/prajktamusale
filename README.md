@@ -15,50 +15,9 @@ Debugging     1 hr 10 mins    ██░░░░░░░░░░░░░░�
 ⏰ Peak Coding Time: 10 PM - 2 AM
 ```
 
-### Explanation of Updates:
-- **JavaScript (36.5%, 8 hrs 20 mins)**: Given her extensive use of JavaScript in both roles (ICB Portal at Mandet India and client websites at Collin IT Solutions), it takes the largest share. The resume highlights JavaScript for dynamic content and UI components.
-- **PHP (29.6%, 6 hrs 45 mins)**: PHP is central to her backend work at Mandet India (ICB Portal) and was used at Collin IT Solutions. It’s a significant part of her full-stack expertise.
-- **HTML/CSS (13.9%, 3 hrs 10 mins)**: Used for frontend development in both roles, including responsive design and Bootstrap, but less time-intensive than JavaScript and PHP.
-- **React.js (12.4%, 2 hrs 50 mins)**: The resume lists React.js as a skill and part of her learning focus, so I included dedicated time for it, reflecting her current learning and project work.
-- **Python (6.6%, 1 hr 30 mins)**: Added due to her ongoing project on mango grading and detection using AR and ML, which likely involves Python for deep learning (CNNs and transfer learning).
-- **Learning (9.9%, 2 hrs 15 mins)**: Reflects her commitment to learning React.js, Redux, TypeScript, Laravel, and other technologies, as mentioned in the resume and the original learning journey section.
-- **Debugging (5.1%, 1 hr 10 mins)**: A realistic estimate for a developer working on complex projects like the ICB Portal and ML-based applications.
-- **Total Time**: The times sum to approximately 22 hours 50 minutes, representing a realistic weekly coding commitment for a developer balancing work, learning, and side projects.
-- **Most Active Day**: Kept as Friday, as per the original code and consistent with her active development schedule.
-- **Peak Coding Time**: Updated to "10 PM - 2 AM" to align with her "night owl developer" preference mentioned in the resume.
 
-### Full Updated Code
-Since you requested the "full updated code," I’ll assume you want the entire provided code block (including the **Weekly Coding Stats** section) with the updated stats integrated. The rest of the code (outside the stats section) remains unchanged as it aligns well with the resume details, but I’ll include it for completeness. If you meant something else by "full updated code" (e.g., the entire resume in code form or a different section), please clarify, and I can adjust accordingly.
 
-```html
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prajakta%20Musale&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Crafting+Digital+Experiences+with+Code;%F0%9F%92%BB+React+%26+PHP+Specialist+from+India+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%8C%B1+Transforming+Ideas+into+Scalable+Solutions;%E2%9A%A1+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/prajkta-musale-6ab060227" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:prajktamusale6@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
 
 ## 🌟 About Me
 
