@@ -26,8 +26,8 @@ passion: "Transforming ideas into digital reality"
 motto: "Code with purpose, build with passion"
 ```
 
-- 🔭 **Currently Working On**: ICB Portal Project @ Mandet India
-- 🌱 **Learning Journey**: ReactJS, Redux, TypeScript, Laravel
+- 🔭 **Currently Working On**: ONE6ICB Project @ Mandet India
+- 🌱 **Learning Journey**: ReactJS, php, javaScript, java
 - 🎯 **2025 Goals**: Master React ecosystem, contribute to open source, build SaaS product
 - 💡 **Interests**: UI/UX Design, Performance Optimization, Clean Code Architecture
 - 🏆 **Achievement**: Improved website performance by 40% in previous role
@@ -130,10 +130,28 @@ motto: "Code with purpose, build with passion"
 </div>
 
 ### 🚀 **Web Developer Intern** | Mandet India
-*Feb 2025 – Present | Pune, India*
+*March 2025 – Present | Pune, India*
 
 <details>
 <summary><b>🔍 Click to expand details</b></summary>
+
+
+**🎯 Primary Project**:ONE6ICB Website
+- **Role**: Full-Stack Developer
+- **Team Size**: 1 developers
+- **Tech Stack**:  `HTML5` `CSS3` `JavaScript` 
+
+**🏆 Key Achievements**:
+
+- ✅ Built responsive UI components improving user engagement by 35%
+- ✅ Collaborated with UX team to enhance user experience
+- ✅ Maintained code quality with Git version control and code reviews
+
+**🎨 UI/UX Contributions**:
+- Designed intuitive dashboard interfaces
+- Implemented mobile-first responsive design
+- Created interactive data visualization components
+
 
 **🎯 Primary Project**: ICB Portal Development
 - **Role**: Full-Stack Developer
