@@ -18,7 +18,7 @@
 
 ```yaml
 name: Prajakta Musale
-role: Full Stack Web Developer
+role: SOftware Developer
 location: Pune, Maharashtra, India
 experience: intern at mandet india and collin IT Solution 
 current_focus: ["React.js", "Advanced PHP", "Modern Web Technologies"]
@@ -26,9 +26,9 @@ passion: "Transforming ideas into digital reality"
 motto: "Code with purpose, build with passion"
 ```
 
-- 🔭 **Currently Working On**: ONE6ICB Project @ Mandet India
+- 🔭 **Currently Working On**: C# Training
 - 🌱 **Learning Journey**: ReactJS, php, javaScript, java
-- 🎯 **2025 Goals**: Master React ecosystem, contribute to open source, build SaaS product
+- 🎯 **2025 Goals**: Master React ecosystem, contribute to open source, build SaaS product,C#
 - 💡 **Interests**: UI/UX Design, Performance Optimization, Clean Code Architecture
 - 🏆 **Achievement**: Improved website performance by 40% in previous role
 - 💬 **Ask me about**: Frontend Magic, Backend APIs, Database Design, Web Performance
