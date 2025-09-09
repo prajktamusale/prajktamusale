@@ -265,8 +265,7 @@ motto: "Code with purpose, build with passion"
 class PrajaktaMusale extends Developer {
   constructor() {
     super();
-    this.name = "Prajakta Musale";
-    this.role = "Full Stack Developer";
+    this.name = "Software Developer";
     this.currentLearning = ["React.js", "Redux", "TypeScript", "Laravel"];
     this.nextGoals = ["Node.js", "MongoDB", "AWS", "Docker"];
   }
