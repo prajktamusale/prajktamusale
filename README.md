@@ -20,8 +20,8 @@
 name: Prajakta Musale
 role: SOftware Developer
 location: Pune, Maharashtra, India
-experience: intern at mandet india and collin IT Solution 
-current_focus: ["React.js", "Advanced PHP", "Modern Web Technologies"]
+experience: GET - Software Developer at KSB Tech 
+current_focus: ["Angular.js", "Advanced PHP", C#,.NET,Azure]
 passion: "Transforming ideas into digital reality"
 motto: "Code with purpose, build with passion"
 ```
